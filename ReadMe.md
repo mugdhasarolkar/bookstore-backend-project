@@ -4,7 +4,7 @@
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project developed as part of an internship program. The project focuses on building a fully functional backend API with complete CRUD (Create, Read, Update, Delete) operations.
 
-*Note:* The backend is fully functional and tested using Postman. The frontend was initialized using the Vite + React framework but could not be completed due to technical issues.
+*Note:* The backend is fully functional and tested using Postman.
 
 ---
 
@@ -23,8 +23,6 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project developed 
 ---
 
 ## Tech Stack
-
-- *Frontend:* React.js with Vite (incomplete)
 - *Backend:* Node.js, Express.js
 - *Database:* MongoDB
 - *Testing Tool:* Postman
@@ -42,4 +40,5 @@ Below are screenshots from Postman verifying the working API routes:
   ![PUT Request]![alt text](put.png)
 
 - *DELETE /api/items/:id* – Delete an item  
+
   ![DELETE Request]![alt text](delete.png)
